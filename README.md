@@ -17,12 +17,9 @@ Okulumuz da verdiği ödev sayesinde sadece HTML olarak kullanmıştır.
 - [ ] CSS güncellemesi yapılabilirdi.
 - [ ] Fotoğraflar açılabilir yapılabilirdi.
 
-![Ekran görüntüsü 2022-07-02 134718](https://user-images.githubusercontent.com/42430554/176997611-9d7c6740-4775-4395-96ad-4352b101375d.png)
-![Ekran görüntüsü 2022-07-02 134736](https://user-images.githubusercontent.com/42430554/176997613-c20cdc4a-40d7-455a-81cf-741e92490ac9.png)
-
 <b>Ekran Görüntüleri</b>
-|   |   |
-|---|---|
+|   |
+|---|
 | ![Ekran görüntüsü 2022-07-02 134718](https://user-images.githubusercontent.com/42430554/176997611-9d7c6740-4775-4395-96ad-4352b101375d.png) | 
 | ![Ekran görüntüsü 2022-07-02 134736](https://user-images.githubusercontent.com/42430554/176997613-c20cdc4a-40d7-455a-81cf-741e92490ac9.png) | 
 
